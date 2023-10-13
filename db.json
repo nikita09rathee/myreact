@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 3,
+      "title": "nxj",
+      "status": false
+    },
+    {
+      "id": 4,
+      "title": "nxj",
+      "status": false
+    },
+    {
+      "title": "nikita",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "priyanka",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "guusuuu",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "omi",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
